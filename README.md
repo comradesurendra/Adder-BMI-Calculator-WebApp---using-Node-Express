@@ -1,5 +1,5 @@
 # Adder-using-Node-Express
-Simple add/bmi calculator web app using Node &amp; Express.
+Simple add/bmi calculator using Node & Express that let user to add and calculate the bmi in backend and display result to the client page.
 
 ### RUN : nodemon calculator.js
 
