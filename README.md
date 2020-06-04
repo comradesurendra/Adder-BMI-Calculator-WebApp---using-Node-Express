@@ -1,4 +1,4 @@
-# Adder-using-Node-Express
+# Adder & BMI Calculator WebApp - using-Node-Express
 Simple add/bmi calculator using Node & Express that let user to add and calculate the bmi in backend and display result to the client page.
 
 # Steps to execute the app 
